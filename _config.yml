@@ -20,7 +20,7 @@ author: r00t26
 ###############################################
 
 navbar-links:
-  Articles: "aboutme"
+  Articles: "_posts"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
